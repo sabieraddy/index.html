@@ -12,7 +12,7 @@ founded in 2013. We connect businesses across Morocco and the Arab world to glob
 markets through sea, air, and road logistics solutions.
 
 📍 **Address:** 86 Bd Lala Yacout, Etg 1 — Appt N°1, CP 20000, Casablanca, Morocco  
-📞 **WhatsApp:** +212 6 06 60 37 48 / +212 6 62 34 99 43  
+📞 **WhatsApp:** +212 6 0000 / +212 6  
 📧 **Email:** export3@arabgloballine.com · export2@arabgloballine.com  
 
 ---
@@ -68,37 +68,12 @@ single-page HTML/CSS/JS application.
 
 ---
 
-## 👥 Our Team
-
-| Name | Title | Department |
-|------|-------|------------|
-| Ms. Hasna | General Director | Direction Générale |
-| Mr. Ali | Managing Partner | Direction Générale |
-| Mme. Oumaima Bouaraj | Operations & Back-Office | Operations |
-| Mme. Saida | Accounts & Finance | Comptabilité |
-| Miss Khadija | Sales & Commercial | Commercial |
-| Mr. Yassine | Commis Documentaire | Documentation |
-| Mr. Sabir Ait Addi | Freight Operations Trainee | Operations |
 
 ---
 
-## 📁 File Structure
-```
-arabgloballine.github.io/
-│
-└── index.html        ← The entire website (single file)
-```
 
 ---
 
-## 🔄 How to Update
-
-1. Edit `index.html` on your computer
-2. Go to this GitHub repository
-3. Click `index.html` → click the ✏️ pencil icon
-4. Paste the updated code
-5. Click **Commit changes**
-6. Website updates automatically in ~1 minute
 
 ---
 
